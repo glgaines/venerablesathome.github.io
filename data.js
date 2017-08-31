@@ -1,6 +1,6 @@
 {
   "query": {
-    "search": [
+    "visits": [
       {
         "ns": 0,
         "title": "Albert Einstein",
