@@ -1,8 +1,5 @@
 {
   "query": {
-    "searchinfo": {
-      "totalhits": 4768
-    },
     "search": [
       {
         "ns": 0,
