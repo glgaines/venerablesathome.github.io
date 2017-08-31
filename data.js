@@ -1,4 +1,5 @@
-{"visits1":
+{
+	"visits1":
 	{	'date': '08/20/2017',
 		'time': '10:30 AM',
 		'reason': 'general check-up',
@@ -6,9 +7,9 @@
 		'location': '123 South Street, Scotia, NY',
 		'transportation': 'self-drive',
 		'notes': ['remember med list', 'urine sample']
-	}
-},
-{"visits2":
+	},
+
+	"visits2":
 	{	'date': '08/20/2017',
 		'time': '10:30 AM',
 		'reason': 'general check-up with medicines',
