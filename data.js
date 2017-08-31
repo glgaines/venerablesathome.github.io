@@ -1,4 +1,4 @@
-[
+{"visits":
 	{	date: '08/20/2017',
 		time: '10:30 AM',
 		reason: 'general check-up',
@@ -30,5 +30,5 @@
 		location: 'Ellis Hospital',
 		transportation: 'Need Transport',
 		notes: ['remember med list', 'No eat, drink for 24 hours']
-	},
-]
+	}
+}
