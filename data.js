@@ -25,7 +25,7 @@
 				"doctor": "Yousef",
 				"location": "123 South Street, Scotia, NY",
 				"transportation": "self-drive",
-				"notes": "remember med list"
+				"notes": [{"note1":"remember med list"},{"note2":"urine sample"}]
 			}
       ]
   }
