@@ -19,15 +19,14 @@
         "snippet": "Variant (of 2): Ainstein.    The <span class=\"searchmatch\">Einstein</span> family is the family of the renowned physicist <span class=\"searchmatch\">Albert</span> <span class=\"searchmatch\">Einstein</span> (1879–1955). <span class=\"searchmatch\">Einstein</span>'s great-great-great-great-grandfather",
         "timestamp": "2017-08-30T00:07:37Z"
       },
-      {
-        "ns": 0,
-        "title": "Albert Einstein College of Medicine",
-        "pageid": 319759,
-        "size": 55311,
-        "wordcount": 5594,
-        "snippet": "﻿40.850852°N 73.844949°W﻿ / 40.850852; -73.844949 The <span class=\"searchmatch\">Albert</span> <span class=\"searchmatch\">Einstein</span> College of Medicine (&quot;<span class=\"searchmatch\">Einstein</span>&quot; for short), a joint entity between Montefiore Medical",
-        "timestamp": "2017-08-29T21:53:35Z"
-      }
+      {	"date": "08/20/2017",
+				"time": "10:30 AM",
+				"reason": "general checkup",
+				"doctor": "Yousef",
+				"location": "123 South Street, Scotia, NY",
+				"transportation": "self-drive",
+				"notes": ["remember med list", "urine sample"]
+			},
       ]
   }
 }
