@@ -1,5 +1,5 @@
 {
-  "query": {
+ // "query": {
     "visits": [
       {	"date": "08/20/2017",
 				"time": "10:30 AM",
@@ -34,6 +34,6 @@
 		"notes": "remember med list and Not eat, drink for 24 hours"
 	}
       ]
-  }
+ // }
 }
   
