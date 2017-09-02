@@ -24,7 +24,7 @@
 		"transportation": "self-drive",
 		"notes": "med list and your eye drops.  Also the trouble with reading"
 	},
-	{	"date": "09/20/2017",
+	{	"date": "05/20/2017",
 		"time": "8:30 AM",
 		"reason": "Endoscopy",
 		"doctor": "Bowels",
